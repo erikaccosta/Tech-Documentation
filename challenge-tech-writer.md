@@ -28,7 +28,7 @@ To implement the solution, observe the prerequisites and follow the process.
 ## Implementation process
 The solution implementation process follows three steps:
 
-![saas_02]()
+![saas_02](https://github.com/erikaccosta/Tech-Documentation/blob/main/saas_02.png)
 
 1. **Data collection**: in this step, gather all the information that will feed the personalization engine.
 1. **Definition of personalization strategy and metrics**: in this step, define: the audience, the type of event (whether it will be an experiment or not), what will be personalized and which metrics can help measure the result of the personalization.
