@@ -13,7 +13,7 @@ By working with Croct, companies can make the most of their primary customer dat
 # Overview
 Croct's SaaS platform is designed for developers and allows them to focus on building products rather than expensive customization infrastructure. Thus, we provide a great experience for developers on any platform and framework. We currently provide a [JavaScript-only SDK](https://github.com/croct-tech/plug-js/blob/master/docs/quick-start.md), but we are working on supporting iOS and Android.
 
-![saas_01]()
+![saas_01](https://github.com/erikaccosta/Tech-Documentation/blob/main/saas_01.png)
 
 ## You're not a developer but you work with data?
 No problem! With that in mind, we created a programming language for non-developers! We call this **language CQL - Contextual Query Language**. It is an intuitive query language that allows anyone, even those who have never touched code before, to query information and make decisions without dealing with code and data processing. Visit [CQL Language]() to learn more.
